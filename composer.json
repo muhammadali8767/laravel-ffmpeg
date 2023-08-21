@@ -10,7 +10,11 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
-        "pbmedia/laravel-ffmpeg": "^8.3"
+        "league/flysystem-aws-s3-v3": "3.15",
+        "league/flysystem-path-prefixing": "^3.15",
+        "livewire/livewire": "^2.12",
+        "pbmedia/laravel-ffmpeg": "^8.3",
+        "spatie/laravel-medialibrary": "^10.11"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
